@@ -7,7 +7,7 @@ import tiktoken
 import re
 
 
-COMPLETIONS_MODEL = "text-davinci-003"
+COMPLETIONS_MODEL = "text-davinci-003" 
 EMBEDDING_MODEL = "text-embedding-ada-002"
 MAX_EMBEDDINGS = 1536
 EMBEDDINGS_CACHE = None
